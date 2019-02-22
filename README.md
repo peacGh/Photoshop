@@ -54,7 +54,7 @@ Also you have to download ImageMagic6.9.9-7-Q16-x86-d11.exe
 ## 3. Run
 
 open the IDLE - File menu - Open - "Photoshop_hee" 
-click to the Run menu - Run Module(F5)
+- click to the Run menu - Run Module(F5)
 
 ## 4. Results
 
