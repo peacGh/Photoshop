@@ -58,4 +58,4 @@ click to the Run menu - Run Module(F5)
 
 ## 4. Results
 
-<p align="center"><img width="100%" src="20190223_034403.png" /></p>
+<img width="60%" src="https://user-images.githubusercontent.com/47827650/53263753-a39c0080-371d-11e9-82c1-35d877b667cd.jpg" /></div>
