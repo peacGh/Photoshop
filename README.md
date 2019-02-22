@@ -1,5 +1,4 @@
 # Photoshop (v 1.0)
-
 Creating mini Photoshop with Python.
 
 More Information: [Book](http://www.hanbit.co.kr/src/4359)
